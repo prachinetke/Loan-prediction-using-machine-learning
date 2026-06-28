@@ -83,17 +83,7 @@ Loan-Status-Prediction/
 ├── loan_prediction_model.pkl
 ├── README.md
 └── requirements.txt
-▶️ How to Run the Project
-1. Clone the Repository
-git clone https://github.com/your-username/Loan-Status-Prediction.git
-2. Navigate to the Project Folder
-cd Loan-Status-Prediction
-3. Install Required Libraries
-pip install -r requirements.txt
-4. Run the Jupyter Notebook
-jupyter notebook
 
-Open Loan_Status_Prediction.ipynb and execute all cells.
 
 📈 Results
 Successfully cleaned and preprocessed the dataset.
@@ -102,17 +92,7 @@ Trained multiple Machine Learning models.
 Compared model performance using accuracy.
 Selected the best-performing model for loan approval prediction.
 Built a prediction system for new applicant data.
-📌 Future Improvements
-Hyperparameter Tuning
-Cross-Validation
-Deployment using Flask or Streamlit
-Interactive Web Application
-Real-time Loan Approval Prediction
-👩‍💻 Author
+
+Author
 
 Prachi Dnyaneshwar Netke
-
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
-Email: your-email@example.com
-⭐ If you found this project useful, don't forget to Star the repository on GitHub!# Loan-prediction-using-machine-learning
